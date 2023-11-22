@@ -1,4 +1,4 @@
-package ListeEIteratori_es4;
+package esercizio04;
 import java.util.*;
 import java.util.HashMap;
 import java.util.Scanner;

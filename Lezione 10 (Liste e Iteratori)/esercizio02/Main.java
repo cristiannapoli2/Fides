@@ -1,4 +1,5 @@
-package ListeEIteratori_es2;
+package esercizio02;
+
 
 import java.util.ArrayList;
 

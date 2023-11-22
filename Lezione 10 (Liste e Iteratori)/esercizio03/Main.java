@@ -1,4 +1,5 @@
-package ListeEIteratori_es3;
+package esercizio03;
+
 
 import java.util.Scanner;
 
